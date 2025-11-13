@@ -1,0 +1,13 @@
+{
+  "app": "khan",
+  "port": 3000,
+  "build": {
+    "location": "iran"
+  },
+  "disks": [
+    {
+      "name": "khan-disk",
+      "mountTo": "/storage/images"
+    }
+  ]
+}
